@@ -81,10 +81,10 @@ p {
 
 #section-2-img-wrapper {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin: 30px 0 45px 0;
-  /* gap: 10px; */
+  gap: 10px;
 }
 
 #section-2-img-wrapper img {
